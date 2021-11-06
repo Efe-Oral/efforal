@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @efforal
+- 👋 Hi there, I’m @efforal
 - 👀 I’m interested in engineering and desing projects
 - 🌱 I’m currently learning FPGA boards
 - 📫 How to reach me efeoral@gmail.com
