@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m @efforal
 - 👀 I’m interested in engineering and desing projects
-- 🌱 I’m currently working on wireless communication and MATLAB 
+- 🌱 I’m currently working on unity engine 
 - 📫 How to reach me efeoral@gmail.com
 - 👨‍💼  [Linkedin](https://www.linkedin.com/notifications/) account
 - 📷  [Instagram](https://www.instagram.com/efe.orl/) account
