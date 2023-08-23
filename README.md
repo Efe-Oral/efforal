@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **efeoral@gmail.com**
 
-- ⚡ Fun fact **I am an ametour radio operator, my satiton is: TA2BSJ**
+- ⚡ Fun fact **I am an ametour radio operator, my staiton is: TA2BSJ**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
